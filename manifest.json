@@ -1,0 +1,10 @@
+{
+    "manifest_version": 2,
+    "name": "Daily Motivation - Motivational Quotes",
+    "version": "2.4.13",
+    "description": "Stay Hungry, Stay Foolish",
+
+  
+    "chrome_url_overrides" : {
+      "newtab": "index.html"
+    }  }
